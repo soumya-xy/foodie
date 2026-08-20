@@ -1,4 +1,4 @@
-# 🍔 Food Delivery System
+# Foodie
 
 A production-grade full-stack food delivery platform with Spring Boot backend and React frontend.
 
@@ -26,7 +26,7 @@ Food_Delivery_Backend/
 └── README.md         # This file
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Backend Setup
 
@@ -338,17 +338,7 @@ RAZORPAY_KEY_SECRET=your_razorpay_secret
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👨‍💻 Author
-
-**Ishan Ganguly**
-
-- GitHub: [@Ishan007-bot](https://github.com/Ishan007-bot)
+ 
 
 ---
 
@@ -366,4 +356,4 @@ This project was developed as part of a Spring Boot backend development assignme
 
 ---
 
-**⭐ Star this repository if you find it helpful!**
+ 
