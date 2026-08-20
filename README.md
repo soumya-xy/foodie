@@ -337,23 +337,3 @@ RAZORPAY_KEY_SECRET=your_razorpay_secret
 5. Open a Pull Request
 
 ---
-
- 
-
----
-
-## 🎓 Academic Project
-
-This project was developed as part of a Spring Boot backend development assignment, demonstrating:
-
-- ✅ Production-grade backend architecture
-- ✅ RESTful API design
-- ✅ Security best practices
-- ✅ Database modeling
-- ✅ External integrations
-- ✅ Performance optimization
-- ✅ Complete documentation
-
----
-
- 
